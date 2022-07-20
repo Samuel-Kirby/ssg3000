@@ -1,0 +1,23 @@
+{
+  "name": "ssg3000",
+  "version": "1.0.0",
+  "description": "A static site generator project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel-Kirby/ssg3000.git"
+  },
+  "author": "Samuel Kirby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuel-Kirby/ssg3000/issues"
+  },
+  "homepage": "https://github.com/Samuel-Kirby/ssg3000#readme",
+  "type": "module",
+  "dependencies": {
+    "marked": "^4.0.18"
+  }
+}
