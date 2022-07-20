@@ -1,8 +1,11 @@
 import { marked } from 'marked';
-import { fs } from 'fs';
+import * as fs from 'fs';
 
-const html = marked.parse('# Marked in Node.js\n\nRendered by **marked**.');
+const html = marked.parse(./src/chunli.md);
 
-const index = fs.open('./src/index.html');
+// const index = fs.open('./src/index.html', (err) => {
+//     if (err) throw err;
+//     console.log('successfully opened /src/index.html');
+//   });
 
-console.log(index);
+console.log(html);
