@@ -1,0 +1,3 @@
+# Ryu
+
+A well rounded, if underpowered, character. Equipped with the standard shoto kit, Ryu has the tools for any standard situation. **cr.mk** is great for catching opponents walking away, and combos into **hadoken**. Ryu can also use **hadoken** in neutral to make opponents want to jump towards him. Throw one less fireball than they expect, and you can hit them out of the air with a **shoryuken**!
