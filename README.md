@@ -7,7 +7,10 @@ The **marked.parse** method does not accept file input, it must be passed a stri
 
 ## To Do
 
-[ ] Create a function which opens markdown files and saves their contents as string variables
-[ ] Create a function which accepts markdown strings and processes them into html
-[ ] Create a function which reads an html template file
-[ ] Create a function which stiches together html from template files and the parser
+- Create a function which opens markdown files and saves their contents as string variables
+
+- Create a function which accepts markdown strings and processes them into html
+
+- Create a function which reads an html template file
+
+- Create a function which stiches together html from template files and the parser
